@@ -1,2 +1,1 @@
 # strapi-api
-# strapi-api
